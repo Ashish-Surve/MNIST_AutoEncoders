@@ -57,7 +57,19 @@ Time (Digit Prediction) |20 mins  | 4 mins
 
 
 
+# Updated Model and Performance Metric:
 
+## AutoEncoder Sample 
+![Autoencoder Sample](https://raw.githubusercontent.com/Ashish-Surve/MNIST_AutoEncoders/main/updated%20metrics/index2.png)
+
+## Autoencoder Loss
+![Autoencoder Loss](https://raw.githubusercontent.com/Ashish-Surve/MNIST_AutoEncoders/main/updated%20metrics/autoencoder%20loss.png)
+
+## Dense Accuracy
+![Dense Accuracy](https://raw.githubusercontent.com/Ashish-Surve/MNIST_AutoEncoders/main/updated%20metrics/Dense%20performance.png)
+
+## Dense Loss
+![Dense Loss](https://raw.githubusercontent.com/Ashish-Surve/MNIST_AutoEncoders/main/updated%20metrics/Dense%20loss.png)
 
 
     
